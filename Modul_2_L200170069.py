@@ -1,8 +1,3 @@
-##Sidiq Zainudin
-##L200170058
-##B
-
-
 ##Latihan
 
 class Manusia(object):
